@@ -1,5 +1,14 @@
 Pequeña pagina de una tienda de peces realizada con React y Sass
 
+Iconos -> React-Icons
+Video -> Pexels
+Imagnes -> Pexels
+
+Gracias por ver mi trabajo y mi progreso😁
+
+Linkedin -> https://www.linkedin.com/in/diego-brasero-sanchez-700b23151/
+
+
 
 
 ![vidamarina1](https://github.com/DiegoBraseroSanchez/VidaMarina/assets/129300180/3652db29-c4c3-429d-8c68-fde14fcca0ae)
