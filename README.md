@@ -1,7 +1,7 @@
 Pequeña pagina de una tienda de peces realizada con React y Sass
 
 
-Ordenador
+
 ![vidamarina1](https://github.com/DiegoBraseroSanchez/VidaMarina/assets/129300180/3652db29-c4c3-429d-8c68-fde14fcca0ae)
 
 ![vidamarina2](https://github.com/DiegoBraseroSanchez/VidaMarina/assets/129300180/f9a7364e-7aa6-437f-9802-cca7ef88ae74)
