@@ -1,6 +1,6 @@
 Pequeña pagina de una tienda de peces realizada con React y Sass
 
-Iconos -> React-Icons,Video -> Pexels,Imagnes -> Pexels
+Iconos -> React-Icons.  Video -> Pexels.  Imagnes -> Pexels
 
 Gracias por ver mi trabajo y mi progreso😁
 
